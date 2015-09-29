@@ -104,7 +104,7 @@
 		},
 		
 		getMaxHeight: function(){
-			var self = this;
+			var self = this, i;
 			
 			self.maxHeight = 0;
 			
